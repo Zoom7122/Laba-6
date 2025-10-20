@@ -1,0 +1,14 @@
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\bin\Debug\net8.0\laba 6 z 1 and 2.exe
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\bin\Debug\net8.0\laba 6 z 1 and 2.deps.json
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\bin\Debug\net8.0\laba 6 z 1 and 2.runtimeconfig.json
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\bin\Debug\net8.0\laba 6 z 1 and 2.dll
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\bin\Debug\net8.0\laba 6 z 1 and 2.pdb
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.AssemblyInfoInputs.cache
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.AssemblyInfo.cs
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.csproj.CoreCompileInputs.cache
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.dll
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\refint\laba 6 z 1 and 2.dll
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.pdb
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\laba 6 z 1 and 2.genruntimeconfig.cache
+C:\Users\vlyub\OneDrive\Рабочий стол\Юрова лабы\laba 6 change\laba 6 z 1 and 2\obj\Debug\net8.0\ref\laba 6 z 1 and 2.dll
